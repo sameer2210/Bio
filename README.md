@@ -5,11 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on mern development
-- 🌱 I’m currently learning mern stack development
-- 👯 I’m looking to collaborate on mern developer
-- 🤔 I’m looking for help with in competitive programming
-- 💬 Ask me about java & dsa
-- 📫 How to reach me: sameerkhan27560@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I'm Sameer Khan 👋
+🔭 Currently working on: Developing robust and scalable MERN stack applications.
+🌱 Currently learning: Advanced MERN stack concepts, Java, and Data Structures & Algorithms.
+👯 Looking to collaborate on: Innovative MERN stack projects and open-source contributions.
+🤔 Seeking help with: Competitive programming to sharpen problem-solving skills.
+💬 Ask me about: Java, Data Structures & Algorithms, and best practices in full-stack development.
+📫 How to reach me: sameerkhan27560@gmail.com
+
+😄 Pronouns: Sam
+⚡ Fun fact: I love debugging complex code—it feels like solving a mystery!
