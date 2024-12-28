@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 Hi there, I'm Sameer Khan 👋
+
 🔭 Currently working on: Developing robust and scalable MERN stack applications.
 🌱 Currently learning: Advanced MERN stack concepts, Java, and Data Structures & Algorithms.
 👯 Looking to collaborate on: Innovative MERN stack projects and open-source contributions.
